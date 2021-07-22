@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("Logic分支");
         System.out.println("支线");
         System.out.println("hot-fix分支");
+        System.out.println("push 两条支线的内容");
     }
 }
