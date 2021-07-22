@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("我的Git项目已经和IDEA连通了");
         System.out.println("主线");
         System.out.println("Logic分支");
+        System.out.println("支线");
+        System.out.println("hot-fix分支");
     }
 }
